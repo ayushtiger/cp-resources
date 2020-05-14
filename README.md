@@ -12,3 +12,6 @@ https://dare2code.weebly.com/
 
 ### Topcoder tut
 https://www.topcoder.com/community/competitive-programming/tutorials/
+
+###CF
+https://codeforces.com/blog/entry/57282
