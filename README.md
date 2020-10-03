@@ -1,4 +1,4 @@
-# cp-resourcs
+# cp-resources
 this repo is for collecting some good resources for cp 
 
 ### POTW
@@ -14,3 +14,9 @@ https://www.topcoder.com/community/competitive-programming/tutorials/
 https://codeforces.com/blog/entry/57282
 
 https://codeforces.com/blog/entry/23054
+
+### Hackerearth
+https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/
+
+### Leetcode
+https://leetcode.com/problemset/algorithms/
